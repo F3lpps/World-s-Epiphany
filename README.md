@@ -4,7 +4,7 @@ Um RPG de texto pós-apocalíptico desenvolvido em Python para o treinamento de 
 
 ## A História
 
-> Num mundo decadente e devastado por guerras nucleares, a humanidade ruiu após tentar aprisionar uma entidade divina. Um anjo descendeu à Terra para trazer salvação, mas tornou-se alvo de cobiça geopolítica. Capturado pelos EUA para a criação de armas visando alto poder belico, o colapso foi inevitável: a Terceira Guerra Mundial impulsionada pela desejo de posse do anjo reduziu a civilização a cinzas.
+> Num mundo decadente e devastado por guerras nucleares, a humanidade ruiu após tentar aprisionar uma entidade divina. Um anjo descendeu à Terra para trazer salvação, mas tornou-se alvo de cobiça geopolítica. Capturado pelos EUA para a criação de armas visando alto poder belico, o colapso foi inevitável: a Terceira Guerra Mundial impulsionada pelo desejo de posse do anjo reduziu a civilização a cinzas.
 
 > Você é um prisioneiro atormentado por visões proféticas. Suas escolhas ditarão o destino dos restos deste mundo putrído: encontrar e libertar o anjo maltratado para restaurar a Terra... ou talvez nem tudo seja tão preto no branco.
 
