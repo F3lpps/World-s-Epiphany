@@ -1,0 +1,30 @@
+# 🌌 Projeto RPG: World's Epiphany
+
+Um RPG de texto pós-apocalíptico desenvolvido em Python para o treinamento de lógica de programação, estruturas condicionais e interfaces gráficas.
+
+## 📝 A História
+
+> Num mundo decadente e devastado por guerras nucleares, a humanidade ruiu após tentar aprisionar uma entidade divina. Um anjo descendeu à Terra para trazer salvação, mas tornou-se alvo de cobiça geopolítica. Capturado pelos EUA para a criação de armas visando alto poder belico, o colapso foi inevitável: a Terceira Guerra Mundial impulsionada pela desejo de posse do anjo reduziu a civilização a cinzas.
+
+> Você é um prisioneiro atormentado por visões proféticas. Suas escolhas ditarão o destino dos restos deste mundo putrído: encontrar e libertar o anjo maltratado para restaurar a Terra... ou talvez nem tudo seja tão preto no branco.
+
+## 🛠️ Tecnologias e Bibliotecas Utilizadas
+
+O projeto foi construído utilizando **Python 3** e as seguintes bibliotecas:
+
+- `random`: Para geração de eventos aleatórios, testes de sorte e combate.
+- `rich`: Para estilização do terminal, textos coloridos e formatação imersiva durante o desenvolvimento do motor.
+- `tkinter`: Para a interface gráfica final do usuário (GUI).
+
+## ⚙️ Como Executar o Projeto
+
+### Próximos Passos (Para Desenvolvedores)
+
+1. **Clone o repositório:**
+   ```bash
+   git clone [https://github.com/F3lpps/Worlds_Epiphany](https://github.com/F3lpps/World's_Epiphany)
+   cd World's_Epiphany
+
+## Licença:
+
+Esse projeto é amparado pela licença [MIT](./LICENSE)
